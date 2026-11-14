@@ -1,0 +1,8 @@
+game/node_modules/
+game/.vite/
+docs/raw/video_astra_3d_worlds.mp4
+docs/raw/audio.mp3
+docs/raw/early-ai-dopters/
+docs/raw/liveworld/
+docs/raw/frames/f_*.jpg
+docs/raw/post_nextdata.json
